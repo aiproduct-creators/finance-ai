@@ -1,6 +1,6 @@
 # Finance AI Bot
 
-Finance AI Bot is an innovative web application crafted to assist individuals and professionals in the finance sector by providing precise answers to finance-related questions directly from financial documents. Utilizing advanced AI algorithms, this application supports a variety of formats including CSV, PDF, MS Excel, and MS Word files, making it a versatile tool for financial analysis and decision-making.
+Finance AI Bot is an innovative web application crafted to assist individuals and professionals in the finance sector by providing precise answers to finance-related questions directly from financial documents. Utilizing advanced AI algorithms, this application supports a variety of formats including CSV, and MS Excel files, making it a versatile tool for financial analysis and decision-making.
 
 ## Features
 
@@ -26,7 +26,7 @@ To run this application, you need to have Python 3.8 or higher installed on your
 - Navigate to the cloned repository:
 
     ```
-    cd seo-ai
+    cd finance-ai
     ```
 - Create a virtual environment and activate it:
     ```
@@ -57,7 +57,7 @@ To run this application, you need to have Python 3.8 or higher installed on your
 - Navigate to the cloned repository:
 
     ```
-    cd seo-ai
+    cd finance-ai
     ```
 - Create a virtual environment and activate it:
     ```
